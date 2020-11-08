@@ -15,14 +15,6 @@
       "repo": "https://github.com/tronbox-boxes/metacoin-box",
       "date": "2018-11-28T19:04:54",
       "logo": ""
-    },
-    {
-      "name": "React",
-      "desc": "A simple scaffolding for a react dApp",
-      "nick": "react",
-      "repo": "https://github.com/tronbox-boxes/react-box",
-      "date": "2018-11-28T19:04:54",
-      "logo": ""
     }
   ]
 }
